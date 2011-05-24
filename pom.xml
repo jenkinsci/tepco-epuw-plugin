@@ -8,11 +8,7 @@
 
   <artifactId>tepco-epuw</artifactId>
   <name>TEPCO Electric Power Usage Widget</name>
-<<<<<<< HEAD
   <version>1.0-SNAPSHOT</version>
-=======
-  <version>1.1-SNAPSHOT</version>
->>>>>>> cdec94d822ee0c90a0e469c11b7a923e61e5c6cf
   <packaging>hpi</packaging>
   <description>This plugin shows current TEPCO electric power usage and a graph of daily usage.</description>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/TEPCO+Electric+Power+Usage+Widget</url>
